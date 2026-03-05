@@ -138,7 +138,7 @@ export default function App() {
             className="relative aspect-[4/5] rounded-[40px] overflow-hidden shadow-2xl group"
           >
             <img 
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=800" 
+              src="WhatsApp Image 2026-03-05 at 16.36.35.jpeg" 
               alt="Виктория Штеинхардт"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               referrerPolicy="no-referrer"
